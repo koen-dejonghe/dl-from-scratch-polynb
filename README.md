@@ -14,4 +14,4 @@ storage:
     dl-from-scratch:
       dir: my-folder/dl-from-scratch-polynb
 ```
-Then (re-)start polynote, nd select the notebook from the `dl-from-scratch` mount.
+Then (re-)start polynote, and select the notebook from the `dl-from-scratch` mount.
